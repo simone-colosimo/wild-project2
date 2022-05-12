@@ -1,0 +1,2 @@
+$ cat .gitignore
+secret_file*

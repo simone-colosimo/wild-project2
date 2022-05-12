@@ -1,2 +1,2 @@
 $ cat .gitignore
-    secret_file.html
+secret_file.html
